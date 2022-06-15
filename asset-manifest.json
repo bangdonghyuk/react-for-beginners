@@ -1,11 +1,11 @@
 {
-  "main.js": "/bangdonghyuk/react-for-beginners.git/static/js/main.eed5a84b.chunk.js",
-  "main.js.map": "/bangdonghyuk/react-for-beginners.git/static/js/main.eed5a84b.chunk.js.map",
-  "static/js/1.062eab11.chunk.js": "/bangdonghyuk/react-for-beginners.git/static/js/1.062eab11.chunk.js",
-  "static/js/1.062eab11.chunk.js.map": "/bangdonghyuk/react-for-beginners.git/static/js/1.062eab11.chunk.js.map",
-  "runtime~main.js": "/bangdonghyuk/react-for-beginners.git/static/js/runtime~main.c3d2ff7f.js",
-  "runtime~main.js.map": "/bangdonghyuk/react-for-beginners.git/static/js/runtime~main.c3d2ff7f.js.map",
-  "index.html": "/bangdonghyuk/react-for-beginners.git/index.html",
-  "precache-manifest.c362e6bcb3f958d954a7f05d499d0376.js": "/bangdonghyuk/react-for-beginners.git/precache-manifest.c362e6bcb3f958d954a7f05d499d0376.js",
-  "service-worker.js": "/bangdonghyuk/react-for-beginners.git/service-worker.js"
+  "main.js": "/react-for-beginners/static/js/main.c0db6924.chunk.js",
+  "main.js.map": "/react-for-beginners/static/js/main.c0db6924.chunk.js.map",
+  "static/js/1.062eab11.chunk.js": "/react-for-beginners/static/js/1.062eab11.chunk.js",
+  "static/js/1.062eab11.chunk.js.map": "/react-for-beginners/static/js/1.062eab11.chunk.js.map",
+  "runtime~main.js": "/react-for-beginners/static/js/runtime~main.93ab4fdb.js",
+  "runtime~main.js.map": "/react-for-beginners/static/js/runtime~main.93ab4fdb.js.map",
+  "index.html": "/react-for-beginners/index.html",
+  "precache-manifest.79b8f421711c5da3fd7cf7f16f71b081.js": "/react-for-beginners/precache-manifest.79b8f421711c5da3fd7cf7f16f71b081.js",
+  "service-worker.js": "/react-for-beginners/service-worker.js"
 }
